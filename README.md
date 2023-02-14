@@ -59,3 +59,6 @@ Extra Step: Open the css folder in the file tree. You can see all of the css fil
 Important: Click the hints button below if you get stuck.
 
 Don’t forget to push your code to github before you continue.
+
+---
+Next: **Class Components > Introduction to Class Components**
