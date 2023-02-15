@@ -56,9 +56,5 @@ It's that easy! If you'd like to learn more about adding CSS to a React file, ch
 
 Extra Step: Open the css folder in the file tree. You can see all of the css files have been completed for you already. It's important to note that we've named our files using a different naming convention e.g. "Sidebar.module.css".
 
-Important: Click the hints button below if you get stuck.
-
-Don’t forget to push your code to github before you continue.
-
 ---
-Next: **Class Components > Introduction to Class Components**
+Next: [**Class Components > Introduction to Class Components**](https://github.com/JoyZadan/ci-react-core-react-components)
