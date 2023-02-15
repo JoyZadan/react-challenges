@@ -58,3 +58,5 @@ Extra Step: Open the css folder in the file tree. You can see all of the css fil
 
 ---
 Next: [**Class Components > Introduction to Class Components**](https://github.com/JoyZadan/ci-react-core-react-components)
+
+---
