@@ -51,8 +51,8 @@ Note: After adding our classname and link to the css module, your code output in
 ## Learn More:
 It's that easy! If you'd like to learn more about adding CSS to a React file, check out:
 
-[Using CSS Modules to style React Components](https://medium.com/@ralph1786/using-css-modules-in-react-app-c2079eadbb87)
-[React Documentation: Adding a CSS Modules Stylesheet](https://create-react-app.dev/docs/adding-a-css-modules-stylesheet/)
+* [Using CSS Modules to style React Components](https://medium.com/@ralph1786/using-css-modules-in-react-app-c2079eadbb87)
+* [React Documentation: Adding a CSS Modules Stylesheet](https://create-react-app.dev/docs/adding-a-css-modules-stylesheet/)
 
 Extra Step: Open the css folder in the file tree. You can see all of the css files have been completed for you already. It's important to note that we've named our files using a different naming convention e.g. "Sidebar.module.css".
 
